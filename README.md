@@ -2,7 +2,7 @@
 
 # 马督工+户晨风+峰哥亡命天涯.skills
 
-> 「社会化抚养+安卓之父+这是好事啊
+> 「“社会化抚养+安卓之父+这是好事”
 > 不负责正确，只负责把现实讲清楚。」
 
 ![License](https://img.shields.io/badge/license-MIT-green)
